@@ -9,3 +9,7 @@ void main()
     n3=(a/100)%10;
     printf("Reverse of the number is:%d%d%d\n",n1,n2,n3);
 }
+
+
+// This is correction from Shubham 
+// There is no addition to code, only comments'
